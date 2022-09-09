@@ -1,0 +1,6 @@
+Server is running on http://localhost:\\.\pipe\b8dbb1a6-3f0a-47d5-bc99-2b272334d28d
+MongoDB connected : localhost
+GET /api/users 200 222 - 13.755 ms
+GET / 200 4617 - 36.419 ms
+GET /css/style.css 304 - - 2.045 ms
+GET /js/index.js 304 - - 0.735 ms

@@ -1,0 +1,11 @@
+Server is running on http://localhost:\\.\pipe\74c14f04-dd2d-4490-b7d0-01b4f14a95ef
+MongoDB connected : localhost
+GET /css/style.css 304 - - 4.318 ms
+GET /js/index.js 304 - - 4.583 ms
+GET /favicon.ico 404 150 - 2.531 ms
+GET /api/users?id=6319bc479165ddf38ac3d6fd 200 73 - 26.337 ms
+GET /update-user?id=6319bc479165ddf38ac3d6fd 200 4246 - 72.938 ms
+GET /api/users?id=6319bc479165ddf38ac3d6fd 200 73 - 2.504 ms
+GET /update-user?id=6319bc479165ddf38ac3d6fd 200 4246 - 54.267 ms
+GET /css/style.css 304 - - 0.532 ms
+GET /js/index.js 304 - - 0.546 ms
